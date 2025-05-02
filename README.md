@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Alex Mancilla</h1>
+<!--<h1 align="center">¡Hola! 👋 Soy Alex Mancilla</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas | Apasionado por el desarrollo web</h3>
 
 ---
@@ -10,9 +10,9 @@
 - 🤝 Siempre abierto a colaborar en proyectos interesantes.
 <!-- - 📫 Puedes contactarme en: -->
 
----
 
-### 🚀 Tecnologías que manejo
+
+<!--### 🚀 Tecnologías que manejo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -21,17 +21,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+</p>-->
 
----
 
-### 📊 GitHub Stats
+
+<!--### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+</p>-->
 
----
+
 
 <!-- ### 🌐 Conéctate conmigo
 
